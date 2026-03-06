@@ -1,0 +1,19 @@
+-------------CANABIS------------------
+
+/give Lolcat_3 minecraft:sugar[consumable={consume_seconds:2.0,animation:"drink",sound:"entity.witch.drink",has_consume_particles:true,on_consume_effects:[{type:"minecraft:apply_effects",effects:[{id:"minecraft:nausea",duration:800,amplifier:0},{id:"minecraft:night_vision",duration:800,amplifier:0},{id:"minecraft:poison",duration:800,amplifier:0},{id:"minecraft:strength",duration:800,amplifier:0},{id:"minecraft:slowness",duration:800,amplifier:0}]}]},custom_name={"text":"Canabis","color":"green","italic":false},custom_data={canabis:1b}]
+
+---------------BIERE------------------
+
+/give Lolcat_3 minecraft:honey_bottle[consumable={consume_seconds:2.0,animation:"drink",sound:"entity.witch.drink",has_consume_particles:true,on_consume_effects:[{type:"minecraft:apply_effects",effects:[{id:"minecraft:nausea",duration:800,amplifier:0},{id:"minecraft:glowing",duration:800,amplifier:0},{id:"minecraft:strength",duration:800,amplifier:3},{id:"minecraft:jump_boost",duration:800,amplifier:3},{id:"minecraft:speed",duration:800,amplifier:3}]}]},custom_name={"text":"Bière","color":"red","italic":false},custom_data={beer:1b}]
+
+---------------COCAINE-----------------
+
+/give Lolcat_3 minecraft:gunpowder[consumable={consume_seconds:2.0,animation:"drink",sound:"entity.witch.drink",has_consume_particles:true,on_consume_effects:[{type:"minecraft:apply_effects",effects:[{id:"minecraft:weakness",duration:800,amplifier:0},{id:"minecraft:glowing",duration:800,amplifier:0},{id:"minecraft:speed",duration:800,amplifier:3},{id:"minecraft:poison",duration:800,amplifier:3},{id:"minecraft:darkness",duration:800,amplifier:3}]}]},custom_name={"text":"Cocaïne","color":"yellow","italic":false},custom_data={cocaine:1b}]
+
+---------------RAMEN-------------------
+
+/give Lolcat_3 minecraft:mushroom_stew[item_model:"server:ramen",consumable={consume_seconds:2.0,animation:"drink",sound:"entity.witch.drink",has_consume_particles:true,on_consume_effects:[{type:"minecraft:apply_effects",effects:[{id:"minecraft:speed",duration:800,amplifier:2},{id:"minecraft:absorption",duration:800,amplifier:0},{id:"minecraft:strength",duration:800,amplifier:2},{id:"minecraft:jump_boost",duration:800,amplifier:2},{id:"minecraft:regeneration",duration:800,amplifier:2}]}]},custom_name={"text":"Ramen","color":"green","italic":false},custom_data={ramen:1b}]
+
+---------------THE--------------------
+
+/give Lolcat_3 minecraft:potion[potion_contents={potion:"minecraft:luck"},consumable={consume_seconds:2.0,animation:"drink",sound:"entity.witch.drink",has_consume_particles:true,on_consume_effects:[{type:"minecraft:apply_effects",effects:[{id:"minecraft:absorption",duration:800,amplifier:0},{id:"minecraft:regeneration",duration:800,amplifier:2}]}]},custom_name={"text":"Thé","color":"white","italic":false},custom_data={the:1b}]
