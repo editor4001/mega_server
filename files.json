@@ -1,10 +1,10 @@
-{
+[
     {
-        "name":"item-recipe.txt",
-        "description":"test",
+        "name": "item-recipe.txt",
+        "description": "test"
     },
     {
-        "name":"ramen.png",
-        "description":"test2",
+        "name": "ramen.png",
+        "description": "test2"
     }
-}
+]
